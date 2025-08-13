@@ -32,3 +32,6 @@
 
 
 # “Avoid 0, 2, 15 for outputs, avoid 34–39 for outputs, everything else is fair game.”
+
+
+Tnaks

@@ -21,3 +21,11 @@ void loop() {
 
   delay(500); // small delay to avoid flooding serial
 }
+
+// HARDWARE CONNECTION
+// PIR VCC → ESP32 5V  
+// PIR OUT → ESP32 GPIO4  
+// PIR GND → ESP32 GND  
+
+// Buzzer + → ESP32 GPIO5  
+// Buzzer - → ESP32 GND
